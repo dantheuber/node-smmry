@@ -1,7 +1,12 @@
 # smmry
-A simple wrapper module for smmry.com api.
+A simple wrapper module for smmry.com api. https://smmry.com/api
 
 ## Getting Started
+Install the module
+```
+npm install --save smmry
+```
+
 ### Options
 Require the module and pass your api key along with any default options you would like to use when calling the api.
 ```
