@@ -1,0 +1,30 @@
+{
+  "name": "smmry",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the smmry.com api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smmry",
+    "summary",
+    "summarize"
+  ],
+  "author": "Daniel Essig",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.assignin": "^4.2.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantheuber/node-smmry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dantheuber/node-smmry/issues"
+  },
+  "homepage": "https://github.com/dantheuber/node-smmry#readme"
+}
