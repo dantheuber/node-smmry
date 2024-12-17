@@ -1,3 +1,6 @@
+# Archiving
+smmry.com appears to be no more
+
 # smmry
 A simple wrapper module for smmry.com api. https://smmry.com/api
 
